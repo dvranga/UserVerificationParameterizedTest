@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.UserVerificationProject.EmailValidation" tests="21" skipped="0" failures="0" errors="0" timestamp="2020-04-02T09:33:16" hostname="LAPTOP-M8PELJBS" time="0.105">
+  <properties/>
+  <testcase name="givenEmailAsVar_ShouldReturnAsPerTheParameterizedResults[0]" classname="com.bridgelabz.UserVerificationProject.EmailValidation" time="0.003"/>
+  <testcase name="givenEmailAsVar_ShouldReturnAsPerTheParameterizedResults[1]" classname="com.bridgelabz.UserVerificationProject.EmailValidation" time="0.001"/>
+  <testcase name="givenEmailAsVar_ShouldReturnAsPerTheParameterizedResults[2]" classname="com.bridgelabz.UserVerificationProject.EmailValidation" time="0.002"/>
+  <testcase name="givenEmailAsVar_ShouldReturnAsPerTheParameterizedResults[3]" classname="com.bridgelabz.UserVerificationProject.EmailValidation" time="0.019"/>
+  <testcase name="givenEmailAsVar_ShouldReturnAsPerTheParameterizedResults[4]" classname="com.bridgelabz.UserVerificationProject.EmailValidation" time="0.001"/>
+  <testcase name="givenEmailAsVar_ShouldReturnAsPerTheParameterizedResults[5]" classname="com.bridgelabz.UserVerificationProject.EmailValidation" time="0.003"/>
+  <testcase name="givenEmailAsVar_ShouldReturnAsPerTheParameterizedResults[6]" classname="com.bridgelabz.UserVerificationProject.EmailValidation" time="0.002"/>
+  <testcase name="givenEmailAsVar_ShouldReturnAsPerTheParameterizedResults[7]" classname="com.bridgelabz.UserVerificationProject.EmailValidation" time="0.002"/>
+  <testcase name="givenEmailAsVar_ShouldReturnAsPerTheParameterizedResults[8]" classname="com.bridgelabz.UserVerificationProject.EmailValidation" time="0.0"/>
+  <testcase name="givenEmailAsVar_ShouldReturnAsPerTheParameterizedResults[9]" classname="com.bridgelabz.UserVerificationProject.EmailValidation" time="0.005"/>
+  <testcase name="givenEmailAsVar_ShouldReturnAsPerTheParameterizedResults[10]" classname="com.bridgelabz.UserVerificationProject.EmailValidation" time="0.001"/>
+  <testcase name="givenEmailAsVar_ShouldReturnAsPerTheParameterizedResults[11]" classname="com.bridgelabz.UserVerificationProject.EmailValidation" time="0.001"/>
+  <testcase name="givenEmailAsVar_ShouldReturnAsPerTheParameterizedResults[12]" classname="com.bridgelabz.UserVerificationProject.EmailValidation" time="0.001"/>
+  <testcase name="givenEmailAsVar_ShouldReturnAsPerTheParameterizedResults[13]" classname="com.bridgelabz.UserVerificationProject.EmailValidation" time="0.0"/>
+  <testcase name="givenEmailAsVar_ShouldReturnAsPerTheParameterizedResults[14]" classname="com.bridgelabz.UserVerificationProject.EmailValidation" time="0.0"/>
+  <testcase name="givenEmailAsVar_ShouldReturnAsPerTheParameterizedResults[15]" classname="com.bridgelabz.UserVerificationProject.EmailValidation" time="0.006"/>
+  <testcase name="givenEmailAsVar_ShouldReturnAsPerTheParameterizedResults[16]" classname="com.bridgelabz.UserVerificationProject.EmailValidation" time="0.0"/>
+  <testcase name="givenEmailAsVar_ShouldReturnAsPerTheParameterizedResults[17]" classname="com.bridgelabz.UserVerificationProject.EmailValidation" time="0.0"/>
+  <testcase name="givenEmailAsVar_ShouldReturnAsPerTheParameterizedResults[18]" classname="com.bridgelabz.UserVerificationProject.EmailValidation" time="0.003"/>
+  <testcase name="givenEmailAsVar_ShouldReturnAsPerTheParameterizedResults[19]" classname="com.bridgelabz.UserVerificationProject.EmailValidation" time="0.0"/>
+  <testcase name="givenEmailAsVar_ShouldReturnAsPerTheParameterizedResults[20]" classname="com.bridgelabz.UserVerificationProject.EmailValidation" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
